@@ -4,9 +4,9 @@ The Tirukkural or Thirukkural (literally Sacred Verses), or shortly the Kural, i
 The English translations for this dataset have been partly gleaned from [thirukkural133 wordpress](https://thirukkural133.wordpress.com/contents/) and [Project Madurai](https://www.projectmadurai.org/pm_etexts/pdf/pm0153.pdf).
 
 ## About
-This repo contains one file thirukuraleng.txt.
+This repo contains one file [thirukuraleng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt).
 
-* thirukuraleng.txt contains the English translation of all 1330 Kural couplets with each line containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
+* [thirukuraleng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt) contains the English translation of all 1330 Kural couplets with each line containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
 
 ### Note 
 [Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to get access to a complete Thirukural dataset in Tamil.
