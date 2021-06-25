@@ -1,1 +1,14 @@
 # Thirukkural-English-Translation-Dataset
+The Tirukkural or Thirukkural (literally Sacred Verses), or shortly the Kural, is a classic Tamil Sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual. Considered as chef d'oeuvre of both Indian and world literature, the Tirukkural is one of the most important works in the Tamil language.
+
+The English translations for this dataset have been partly gleaned from [thirukkural133 wordpress](https://thirukkural133.wordpress.com/contents/) and [Project Madurai](https://www.projectmadurai.org/pm_etexts/pdf/pm0153.pdf).
+
+## About
+This repo contains one file thirukuraleng.txt.
+
+* thirukuraleng.txt contains the English translation of all 1330 Kural couplets with each line containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
+
+### Note 
+[Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to get access to a complete Thirukural dataset in Tamil.
+
+[Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural dataset related projects on GitHub and to contribute. 
