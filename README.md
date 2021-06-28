@@ -11,4 +11,4 @@ This repo contains one file [thirukuraleng.txt](https://github.com/jjasim/Thiruk
 ### Note 
 [Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to access a complete Thirukural dataset in Tamil.
 
-[Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural dataset related projects on GitHub (and hopefully contribute as well!). 
+[Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural related projects on GitHub (and hopefully contribute as well!). 
