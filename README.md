@@ -9,6 +9,6 @@ This repo contains one file [thirukuraleng.txt](https://github.com/jjasim/Thiruk
 * [thirukuraleng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt) contains the English translation of all 1330 Kural couplets with each line containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
 
 ### Note 
-[Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to get access to a complete Thirukural dataset in Tamil.
+[Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to access a complete Thirukural dataset in Tamil.
 
-[Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural dataset related projects on GitHub and to contribute. 
+[Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural dataset related projects on GitHub (and hopefully contribute as well!). 
