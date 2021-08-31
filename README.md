@@ -6,11 +6,11 @@ The English translations for this dataset have been partly gleaned from [thirukk
 ## About
 This repo contains three files.
 
-* [Thirukural_Books_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt) contains the English translation of the three Thirukural books.
+* [Thirukural_Books_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Books_Eng.txt) contains the English translation of the three Thirukural books.
 
-* [Thirukural_Chapters_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt) contains the English translation of all 130 chapters of the Thirukural.
+* [Thirukural_Chapters_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Chapters_Eng.txt) contains the English translation of all 130 chapters of the Thirukural.
 
-* [Thirukural_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/thirukuraleng.txt) contains the English translation of all 1330 Kural couplets with each line containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
+* [Thirukural_Eng.txt](https://github.com/jjasim/Thirukkural-English-Translation-Dataset/blob/main/Thirukural_Eng.txt) contains the English translation of all 1330 Kural couplets with each line in the file containing a couplet. In this file individual lines in the couplet are concatenated into one using '$' as the delimiter for convenience.
 
 ### Note 
 [Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to access a complete Thirukural dataset in Tamil.
