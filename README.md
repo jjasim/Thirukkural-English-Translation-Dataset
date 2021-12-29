@@ -16,3 +16,5 @@ This repo contains three files.
 [Click here](https://github.com/SudarAbisheck/thirukkural-dataset) to access a complete Thirukural dataset in Tamil.
 
 [Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural related projects on GitHub (and hopefully contribute as well!). 
+
+### Word Cloud visualisations of this dataset
