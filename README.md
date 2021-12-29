@@ -17,4 +17,4 @@ This repo contains three files.
 
 [Also click here](https://github.com/tk120404/thirukkural) to see further Thirukural related projects on GitHub (and hopefully contribute as well!). 
 
-### Word Cloud visualisations of this dataset
+## Word Cloud visualisations of this dataset
